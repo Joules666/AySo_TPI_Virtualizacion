@@ -26,7 +26,7 @@ Dentro del entorno virtual se verificó la instalación de **Python** y se ejecu
 | `2 - Descarga de Kali Linux.mp4` | Video que muestra la obtención de la imagen ISO de Kali Linux desde su sitio oficial. |
 | `3 - Creación de MV Kali Linux.mp4` | Video detallando la configuración de la máquina virtual dentro de VirtualBox (memoria, disco, red, etc.). |
 | `4 - Corriendo Python en MV.mp4` | Video que muestra la ejecución del script Python dentro de la máquina virtual Kali Linux. |
-| `Conversion_decimal_binario.py` | Script en Python que convierte un número decimal ingresado por el usuario a binario. |
+| `Conversion_decimal_binario.py` | Script en Python que convierte un número decimal ingresado por el usuario a binario y viceversa. |
 | `TPI_Virtualizacion_JulioFerreyra.pdf` | Informe completo del trabajo práctico con introducción, marco teórico, desarrollo y conclusiones. |
 | `README.md` | Este archivo de documentación del proyecto. |
 
